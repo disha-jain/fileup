@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+	// ... other config rows 
+	"typeRoots": [ "../node_modules/@types/" ]//,
+//    "types": [ "jquery"  /*... your other types */ ]
+  	},
+	"files": [
+	  	"./src/main/webapp/codebase/dhtmlx.d.ts",
+        "./src/main/webapp/index.ts"
+
+    ]
+}
